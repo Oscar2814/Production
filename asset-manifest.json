@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Oscar2814/Production.git/static/css/main.d3a06fe0.css",
+    "main.js": "/Oscar2814/Production.git/static/js/main.05de3968.js",
+    "static/js/453.8ab44547.chunk.js": "/Oscar2814/Production.git/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Oscar2814/Production.git/index.html",
+    "main.d3a06fe0.css.map": "/Oscar2814/Production.git/static/css/main.d3a06fe0.css.map",
+    "main.05de3968.js.map": "/Oscar2814/Production.git/static/js/main.05de3968.js.map",
+    "453.8ab44547.chunk.js.map": "/Oscar2814/Production.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a06fe0.css",
+    "static/js/main.05de3968.js"
+  ]
+}
